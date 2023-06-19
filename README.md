@@ -1,5 +1,5 @@
 # Regression_project
-Techlent Regression Project: Providing data-driven suggestions for customers
+Regression Project: Providing data-driven suggestions for customers
 
 
 We are an agency helping our customers purchase XoX (a made-up product) from various makers. Price is one of the most important things we care about. We need to estimate the price of a XoX before we recommend it to our customers. However, the estimations vary significantly with our employees' experience.
